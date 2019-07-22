@@ -1,5 +1,12 @@
 #pragma once
 
+/**
+*	GraphNode.hpp
+*
+*	Class to store the minimum information of the graph node
+*
+*/
+
 
 ///<summary>GraphNode class stores the minimum information of the nodeIndex that it requires for the adjacency list graph representation</summary>
 //In this case, an Index.
