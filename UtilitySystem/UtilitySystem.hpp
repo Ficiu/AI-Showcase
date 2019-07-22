@@ -1,4 +1,9 @@
 #pragma once
+
+/**
+*	UtilitySystem.hpp
+*/
+
 #include <list>
 #include <assert.h>
 #include <glm\glm.hpp>
