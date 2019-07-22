@@ -1,5 +1,12 @@
 #pragma once
 
+/**
+*	Graph_DFS.hpp
+*
+*	Template class to execute the Depth First Search algorithm
+*
+*/
+
 #include "RTSCommon/AISystem/GraphSystem/Graph.hpp"
 #include <stack>
 
