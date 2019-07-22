@@ -1,5 +1,11 @@
 #pragma once
 
+/**
+*	Graph_Dijkstra.hpp
+*
+*	Template class to execute Dijkstra algorithm
+*/
+
 #include "RTSCommon/AISystem/GraphSystem/Graph.hpp"
 #include "RTSCommon/AISystem/Utilities/PriorityQueue.hpp"
 #include <queue>
