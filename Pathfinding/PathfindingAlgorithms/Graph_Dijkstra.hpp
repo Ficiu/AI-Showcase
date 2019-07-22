@@ -7,8 +7,8 @@
 *
 */
 
-#include "RTSCommon/AISystem/Pathfinding/Graph.hpp"
-#include "RTSCommon/AISystem/PriorityQueue.hpp"
+#include "Pathfinding/Graph.hpp"
+#include "PriorityQueue.hpp"
 #include <queue>
 #include <vector>
 
