@@ -1,5 +1,8 @@
 #pragma once
 
+/**
+*	StateTemplate.hpp
+*/
 
 //template state base class
 template<class entity_type>
