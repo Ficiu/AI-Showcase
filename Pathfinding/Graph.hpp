@@ -1,5 +1,12 @@
 #pragma once
 
+/**
+*	Graph.hpp
+*
+*	Template class to create and store the graph
+*
+*/
+
 #include <cassert>
 #include <vector>
 #include <list>
@@ -497,7 +504,7 @@ void Graph<node_type, edge_type>::Load(std::ifstream& stream)
 
 	unsigned int numNodes, numEdges;
 
-	//Get n° of nodes
+	//Get nÂ° of nodes
 	stream >> numNodes;
 
 	for (int i = 0; i < numNodes; ++i)
@@ -521,7 +528,7 @@ void Graph<node_type, edge_type>::Load(std::ifstream& stream)
 		}
 	}
 
-	//n° of edges
+	//nÂ° of edges
 	stream >> numEdges;
 
 	for (int i = 0; i < numEdges; ++i)
