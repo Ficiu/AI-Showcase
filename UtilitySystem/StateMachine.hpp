@@ -1,5 +1,9 @@
 #pragma once
 
+/**
+*	StateMachine.hpp
+*/
+
 #include <cassert>
 
 
