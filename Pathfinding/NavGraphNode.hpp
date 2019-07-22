@@ -7,7 +7,6 @@
 *
 */
 
-
 #include "RTSCommon\AISystem\Pathfinding\GraphNode.hpp"
 
 #include <fstream>
