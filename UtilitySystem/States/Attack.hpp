@@ -1,6 +1,6 @@
 #pragma once
 
-#include "RTSCommon/AISystem/UtilitySystem/StateMachine.hpp"
+#include "UtilitySystem/StateTemplate.hpp"
 #include "RTSCommon/Components/TransformComponent.hpp"
 
 
