@@ -1,5 +1,12 @@
 #pragma once
 
+/**
+*	Graph_BFS.hpp
+*
+*	Template class to execute the Breadth First Search algorithm
+*
+*/
+
 #include "RTSCommon/AISystem/GraphSystem/Graph.hpp"
 #include <ctime>
 
