@@ -7,7 +7,7 @@
 *
 */
 
-#include "RTSCommon/AISystem/Pathfinding/Graph.hpp"
+#include "Pathfinding/Graph.hpp"
 #include <stack>
 
 
