@@ -4,6 +4,7 @@
 *	Graph_Dijkstra.hpp
 *
 *	Template class to execute Dijkstra algorithm
+*
 */
 
 #include "RTSCommon/AISystem/GraphSystem/Graph.hpp"
