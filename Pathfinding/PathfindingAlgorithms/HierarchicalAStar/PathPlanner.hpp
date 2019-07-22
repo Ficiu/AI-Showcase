@@ -7,7 +7,6 @@
 *
 */
 
-#include "RTSCommon/api.hpp"
 #include <list>
 #include <glm\glm.hpp>
 
@@ -22,7 +21,7 @@ class Regulator;
 
 
 ///AI agents hold this class, which the Decicion-Making component will use to request paths
-class RTS_COMMON_API PathPlanner
+class PathPlanner
 {
 
 private:
