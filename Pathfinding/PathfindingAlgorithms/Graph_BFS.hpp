@@ -7,7 +7,7 @@
 *
 */
 
-#include "RTSCommon/AISystem/Pathfinding/Graph.hpp"
+#include "Graph.hpp"
 #include <ctime>
 
 
