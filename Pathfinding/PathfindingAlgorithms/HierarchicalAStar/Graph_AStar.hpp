@@ -1,5 +1,11 @@
 #pragma once
-#pragma once
+
+/**
+*	Graph_AStar.hpp
+*
+*	Template class to execute A* algorithm
+*
+*/
 
 #include "RTSCommon/AISystem/GraphSystem/Graph.hpp"
 #include "RTSCommon/AISystem/Utilities/PriorityQueue.hpp"
