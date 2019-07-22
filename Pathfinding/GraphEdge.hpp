@@ -1,5 +1,12 @@
 #pragma once
 
+/**
+*	GraphEdge.hpp
+*
+*	Class to store the essential information of the graph edge
+*
+*/
+
 #include <fstream>
 
 
