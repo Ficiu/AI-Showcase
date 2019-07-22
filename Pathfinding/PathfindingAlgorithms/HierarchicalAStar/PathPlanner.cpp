@@ -1,7 +1,7 @@
-#include "RTSCommon/AISystem/Pathfinding/PathfindingAlgorithms/HierarchicalAStar/PathPlanner.hpp"
-#include "RTSCommon/AISystem/Pathfinding/CellSpacePartition.hpp"
-#include "RTSCommon/AISystem/Pathfinding/PathfindingAlgorithms/HierarchicalAStar/Graph_AStar.hpp"
-#include "RTSCommon/AISystem/Utilities/Regulator.hpp"
+#include "Pathfinding/PathfindingAlgorithms/HierarchicalAStar/PathPlanner.hpp"
+#include "Pathfinding/CellSpacePartition.hpp"
+#include "Pathfinding/PathfindingAlgorithms/HierarchicalAStar/Graph_AStar.hpp"
+#include "Utilities/Regulator.hpp"
 #include "RTSCommon/Components/TransformComponent.hpp"
 #include "RTSCommon/Entity/Entity.hpp"
 #include <iostream>
