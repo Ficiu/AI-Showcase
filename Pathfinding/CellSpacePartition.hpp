@@ -8,10 +8,10 @@
 *
 */
 
-#include "RTSCommon/AISystem/Pathfinding/Graph.hpp"
-#include "RTSCommon/AISystem/Pathfinding/GraphEdge.hpp"
-#include "RTSCommon/AISystem/Pathfinding/PathfindingAlgorithms/HierarchicalAStar/Graph_AStar.hpp"
-#include "RTSCommon/AISystem/Pathfinding/NavGraphNode.hpp"
+#include "Pathfinding/Graph.hpp"
+#include "Pathfinding/GraphEdge.hpp"
+#include "Pathfinding/PathfindingAlgorithms/HierarchicalAStar/Graph_AStar.hpp"
+#include "Pathfinding/NavGraphNode.hpp"
 #include "RTSCommon/Map/Map.hpp"
 
 #include <glm/glm.hpp>
