@@ -1,5 +1,12 @@
 #pragma once
 
+/**
+*	NavGraphNode.hpp
+*
+*	Class to store node position and extra info
+*
+*/
+
 #include "RTSCommon\AISystem\GraphSystem\GraphNode.hpp"
 
 #include <fstream>
