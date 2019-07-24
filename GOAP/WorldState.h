@@ -10,7 +10,7 @@
 #include <string>
 #include <vector>
 #include <map>
-#include "/Perforce/Projects/Y2017C-Y2-PR-RTS/SupremeEngine/GameServer/GameServerWin/AI/Data.h"
+#include "Data.h"
 
 namespace goap 
 {
