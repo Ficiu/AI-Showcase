@@ -5,18 +5,23 @@ It is not provided in a state where it will run, as the repository holds only my
 
 My contribution to this included:
 
+* Utilities
+  * [Update Regulator](https://github.com/FilippoDenegri/AI-Showcase/blob/master/Utilities/Regulator.hpp)
 * Steering Behaviours
-
+  * Seek
+  * Flee
+  * Arrive
+  * Wander
+  * Collision Avoidance
+  * Path Following
+  * Flocking (Separation, Allignment, Cohesion)
 * Pathfinding Algorithms
-
-  * A*, Dijkstra, Breadth First Search, Depth First Search)
-  
+  * A*
+  * Dijkstra
+  * Breadth First Search
+  * Depth First Search
 * Decision Making
-
   * Finite State Machine
-  
   * Utility System
-  
 * Action Planner
-
   * Goal Oriented Action Planner
