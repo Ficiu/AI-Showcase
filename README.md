@@ -5,18 +5,18 @@ It is not provided in a state where it will run, as the repository holds only my
 
 My contribution to this included:
 
-Steering Behaviours
+* Steering Behaviours
 
-Pathfinding Algorithms
+* Pathfinding Algorithms
 
-  A*, Dijkstra, Breadth First Search, Depth First Search)
+  * A*, Dijkstra, Breadth First Search, Depth First Search)
   
-Decision Making
+* Decision Making
 
-  Finite State Machine
+  * Finite State Machine
   
-  Utility System
+  * Utility System
   
-Action Planner
+* Action Planner
 
-  Goal Oriented Action Planner
+  * Goal Oriented Action Planner
