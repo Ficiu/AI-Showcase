@@ -12,13 +12,16 @@ My contribution to this included:
   * [Update Regulator](https://github.com/FilippoDenegri/AI-Showcase/blob/master/Utilities/Regulator.hpp)
   * [Path Smoother](https://github.com/FilippoDenegri/AI-Showcase/blob/daecc3419d63e91591611881289230f4a48b2100/Pathfinding/PathfindingAlgorithms/HierarchicalAStar/PathPlanner.cpp#L29)
 * Steering Behaviours
-  * Seek
-  * Flee
-  * Arrive
-  * Wander
-  * Collision Avoidance
-  * Path Following
-  * Flocking (Separation, Allignment, Cohesion)
+  * [Seek](https://github.com/FilippoDenegri/AI-Showcase/blob/368cdc6a4264418112bfed4bc5b7acbc320bc685/Utilities/SteeringBehaviours.hpp#L75)
+  * [Flee](https://github.com/FilippoDenegri/AI-Showcase/blob/368cdc6a4264418112bfed4bc5b7acbc320bc685/Utilities/SteeringBehaviours.hpp#L86)
+  * [Arrive](https://github.com/FilippoDenegri/AI-Showcase/blob/368cdc6a4264418112bfed4bc5b7acbc320bc685/Utilities/SteeringBehaviours.hpp#L103)
+  * [Wander](https://github.com/FilippoDenegri/AI-Showcase/blob/368cdc6a4264418112bfed4bc5b7acbc320bc685/Utilities/SteeringBehaviours.hpp#L123)
+  * [Collision Avoidance](https://github.com/FilippoDenegri/AI-Showcase/blob/368cdc6a4264418112bfed4bc5b7acbc320bc685/Utilities/SteeringBehaviours.hpp#L136)
+  * [Path Following](https://github.com/FilippoDenegri/AI-Showcase/blob/368cdc6a4264418112bfed4bc5b7acbc320bc685/Utilities/SteeringBehaviours.hpp#L175)
+  * Flocking
+    * [Separation](https://github.com/FilippoDenegri/AI-Showcase/blob/368cdc6a4264418112bfed4bc5b7acbc320bc685/Utilities/SteeringBehaviours.hpp#L201)
+    * [Allignment](https://github.com/FilippoDenegri/AI-Showcase/blob/368cdc6a4264418112bfed4bc5b7acbc320bc685/Utilities/SteeringBehaviours.hpp#L222)
+    * [Cohesion](https://github.com/FilippoDenegri/AI-Showcase/blob/368cdc6a4264418112bfed4bc5b7acbc320bc685/Utilities/SteeringBehaviours.hpp#L251)
 * Pathfinding Algorithms
   * [Hierarchical A*](https://github.com/FilippoDenegri/AI-Showcase/tree/daecc3419d63e91591611881289230f4a48b2100/Pathfinding/PathfindingAlgorithms/HierarchicalAStar)
   * [A*](https://github.com/FilippoDenegri/AI-Showcase/blob/daecc3419d63e91591611881289230f4a48b2100/Pathfinding/PathfindingAlgorithms/HierarchicalAStar/Graph_AStar.hpp)
