@@ -7,7 +7,7 @@ My contribution to this included:
 
 * Utilities
   * [Update Regulator](https://github.com/FilippoDenegri/AI-Showcase/blob/master/Utilities/Regulator.hpp)
-* Steering Behaviours
+* [Steering Behaviours](https://github.com/FilippoDenegri/AI-Showcase/blob/master/Utilities/SteeringBehaviours.hpp)
   * Seek
   * Flee
   * Arrive
