@@ -16,7 +16,7 @@ My contribution to this included:
   * Path Following
   * Flocking (Separation, Allignment, Cohesion)
 * Pathfinding Algorithms
-  * A*
+  * Hierarchical A*
   * Dijkstra
   * Breadth First Search
   * Depth First Search
