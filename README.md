@@ -11,7 +11,7 @@ My contribution to this included:
   * [Bresenham's Line Of Sight](https://github.com/FilippoDenegri/AI-Showcase/blob/daecc3419d63e91591611881289230f4a48b2100/Pathfinding/CellSpacePartition.hpp#L385)
   * [Update Regulator](https://github.com/FilippoDenegri/AI-Showcase/blob/master/Utilities/Regulator.hpp)
   * [Path Smoother](https://github.com/FilippoDenegri/AI-Showcase/blob/daecc3419d63e91591611881289230f4a48b2100/Pathfinding/PathfindingAlgorithms/HierarchicalAStar/PathPlanner.cpp#L29)
-* [Steering Behaviours](https://github.com/FilippoDenegri/AI-Showcase/blob/master/Utilities/SteeringBehaviours.hpp)
+* Steering Behaviours
   * Seek
   * Flee
   * Arrive
@@ -19,13 +19,13 @@ My contribution to this included:
   * Collision Avoidance
   * Path Following
   * Flocking (Separation, Allignment, Cohesion)
-* [Pathfinding Algorithms](https://github.com/FilippoDenegri/AI-Showcase/tree/master/Pathfinding/PathfindingAlgorithms)
+* Pathfinding Algorithms
   * [Hierarchical A*](https://github.com/FilippoDenegri/AI-Showcase/tree/daecc3419d63e91591611881289230f4a48b2100/Pathfinding/PathfindingAlgorithms/HierarchicalAStar)
   * [A*](https://github.com/FilippoDenegri/AI-Showcase/blob/daecc3419d63e91591611881289230f4a48b2100/Pathfinding/PathfindingAlgorithms/HierarchicalAStar/Graph_AStar.hpp)
   * [Dijkstra](https://github.com/FilippoDenegri/AI-Showcase/blob/daecc3419d63e91591611881289230f4a48b2100/Pathfinding/PathfindingAlgorithms/Graph_Dijkstra.hpp)
   * [Breadth First Search](https://github.com/FilippoDenegri/AI-Showcase/blob/daecc3419d63e91591611881289230f4a48b2100/Pathfinding/PathfindingAlgorithms/Graph_BFS.hpp)
   * [Depth First Search](https://github.com/FilippoDenegri/AI-Showcase/blob/daecc3419d63e91591611881289230f4a48b2100/Pathfinding/PathfindingAlgorithms/Graph_DFS.hpp)
-* [Decision Making](https://github.com/FilippoDenegri/AI-Showcase/tree/master/UtilitySystem)
+* Decision Making
   * [Finite State Machine](https://github.com/FilippoDenegri/AI-Showcase/blob/master/UtilitySystem/StateMachine.hpp)
   * [Utility System](https://github.com/FilippoDenegri/AI-Showcase/blob/master/UtilitySystem/UtilitySystem.hpp)
 * Action Planner
