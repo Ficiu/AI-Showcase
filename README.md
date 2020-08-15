@@ -7,6 +7,7 @@ My contribution to this included:
 
 * Utilities
   * [Update Regulator](https://github.com/FilippoDenegri/AI-Showcase/blob/master/Utilities/Regulator.hpp)
+  * [Path Smoother](https://github.com/FilippoDenegri/AI-Showcase/blob/daecc3419d63e91591611881289230f4a48b2100/Pathfinding/PathfindingAlgorithms/HierarchicalAStar/PathPlanner.cpp#L29)
 * [Steering Behaviours](https://github.com/FilippoDenegri/AI-Showcase/blob/master/Utilities/SteeringBehaviours.hpp)
   * Seek
   * Flee
@@ -16,10 +17,11 @@ My contribution to this included:
   * Path Following
   * Flocking (Separation, Allignment, Cohesion)
 * Pathfinding Algorithms
-  * Hierarchical A*
-  * Dijkstra
-  * Breadth First Search
-  * Depth First Search
+  * [Hierarchical A*](https://github.com/FilippoDenegri/AI-Showcase/tree/daecc3419d63e91591611881289230f4a48b2100/Pathfinding/PathfindingAlgorithms/HierarchicalAStar)
+  * [A*](https://github.com/FilippoDenegri/AI-Showcase/blob/daecc3419d63e91591611881289230f4a48b2100/Pathfinding/PathfindingAlgorithms/HierarchicalAStar/Graph_AStar.hpp)
+  * [Dijkstra](https://github.com/FilippoDenegri/AI-Showcase/blob/daecc3419d63e91591611881289230f4a48b2100/Pathfinding/PathfindingAlgorithms/Graph_Dijkstra.hpp)
+  * [Breadth First Search](https://github.com/FilippoDenegri/AI-Showcase/blob/daecc3419d63e91591611881289230f4a48b2100/Pathfinding/PathfindingAlgorithms/Graph_BFS.hpp)
+  * [Depth First Search](https://github.com/FilippoDenegri/AI-Showcase/blob/daecc3419d63e91591611881289230f4a48b2100/Pathfinding/PathfindingAlgorithms/Graph_DFS.hpp)
 * Decision Making
   * Finite State Machine
   * Utility System
